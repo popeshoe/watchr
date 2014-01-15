@@ -12,6 +12,6 @@ Example
 
 `watchr 'perl scrape_content.pl http://www.bbc.co.uk/news' scrape_content.pl modules/web_scraper.pm`
 
-## Liability
+## Disclaimer
 
 I pulled this script together in an afternoon, I accept no responsibility if you use it and your computer breaks and all pond water pours out of the usb sockets.
